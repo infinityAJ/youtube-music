@@ -1,4 +1,4 @@
-# YouTube Music
+# YouTube Music Nice
 
 <div align="center">
 
